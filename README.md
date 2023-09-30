@@ -10,11 +10,13 @@
 
 | ID | Projeto | | Repositório |
 |----|---------|-|-------------|
-| 01 |    Potência Tech iFood - Programação do Zero ||[<img src = "https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">][repo_01]|
+| 01 |    Potência Tech iFood - Programação do Zero ||[<img src = "https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">][repo_01]|
+| 02 |    Potência Tech iFood - Desenvolvimento de Jogos ||[<img src = "https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white">][repo_02]|
 
 
 
 [repo_01]:https://github.com/zeldinha00/EstudosDio/tree/main/Pot%C3%AAncia%20Tech%20iFood%20-%20Programa%C3%A7%C3%A3o%20do%20Zero
+[repo_02]:https://github.com/zeldinha00/EstudosDio/tree/main/Pot%C3%AAncia%20Tech%20iFood%20-%20Programa%C3%A7%C3%A3o%20do%20Zero
 
 ## 💡 Ícones
 - :package: Nova funcionalidade
@@ -28,3 +30,5 @@
 <a href="https://www.instagram.com/zeldinha00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
   
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
