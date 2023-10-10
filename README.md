@@ -16,7 +16,7 @@
 
 
 [repo_01]:https://github.com/zeldinha00/EstudosDio/tree/main/Pot%C3%AAncia%20Tech%20iFood%20-%20Programa%C3%A7%C3%A3o%20do%20Zero
-[repo_02]:https://github.com/zeldinha00/EstudosDio/tree/main/Pot%C3%AAncia%20Tech%20iFood%20-%20Programa%C3%A7%C3%A3o%20do%20Zero
+[repo_02]:https://github.com/zeldinha00/EstudosDio/tree/main/Pot%C3%AAncia%20Tech%20iFood%20-%20Desenvolvimento%20de%20Jogos
 
 ## 💡 Ícones
 - :package: Nova funcionalidade
